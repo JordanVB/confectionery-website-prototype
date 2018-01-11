@@ -265,4 +265,17 @@ footer {
     line-height: 1.5;
   }
 
+  .location {
+    padding-bottom: 29em;
+  }
+
+  .celeb {
+    padding-left: 17em;
+  }
+
+  .celebcontent {
+    float: right;
+    padding-right: 18em;
+  }
+
 }
